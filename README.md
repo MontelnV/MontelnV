@@ -7,7 +7,8 @@
   </a>
 </div>
 <h3>My Portfolio</h3>
-<a href="https://montelnv.github.io/"><img src='https://github.com/MontelnV/MontelnV/assets/139653630/0d09ed31-4b37-4f54-a173-693a3e8af0e7' width="60" height="60"</a>
+<a href="https://montelnv.github.io/"><img src='https://github.com/MontelnV/MontelnV/assets/139653630/8cf79ff1-f464-4f2f-a5da-44c4fe80d86b' width="60" height="60"</a>
+
 
 
 <h3>Languages and tools</h3>
