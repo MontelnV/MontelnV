@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-<a href="https://montelnv.github.io/">![free-icon-portfolio-1096028](https://github.com/MontelnV/MontelnV/assets/139653630/a4cb27ea-48e0-4314-90b4-ac684f6fa449)</a>
+<a href="https://montelnv.github.io/"><img src='https://github.com/MontelnV/MontelnV/assets/139653630/a4cb27ea-48e0-4314-90b4-ac684f6fa449'</a>
 
 <h3>Languages and tools</h3>
 
