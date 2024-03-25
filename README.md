@@ -5,6 +5,7 @@
   <a href="https://t.me/MontelnV">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
+  - My own [Portfolio](https://montelnv.github.io/)
 </div>
 
 <h3>Languages and tools</h3>
