@@ -8,11 +8,7 @@
 </div>
 <h3>My Portfolio</h3>
 <a href="https://montelnv.github.io/"><img src='https://github.com/MontelnV/MontelnV/assets/139653630/8cf79ff1-f464-4f2f-a5da-44c4fe80d86b' width="60" height="60"</a>
-
-
-
-<h3>Languages and tools</h3>
-
+<h3>Languages and Tools</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="Fast-API" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="60" height="60"/>&nbsp;
