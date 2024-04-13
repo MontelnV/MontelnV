@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .icon {
-        margin: 0 10px;
-        filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
-    }
-
-  </style>
 </head>
 <body>
     <div id="header" align="center">
