@@ -1,3 +1,8 @@
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+/>
 <div id="header" align="center">
   <h1>Hi there, I'm MontelnV</h1>
   <h3>Python Developer from Perm</h3>
@@ -9,7 +14,7 @@
 <h3>My Portfolio</h3>
 <a href="https://montelnv.github.io/"><img src='https://github.com/MontelnV/MontelnV/assets/139653630/8cf79ff1-f464-4f2f-a5da-44c4fe80d86b' width="60" height="60"></a>
 <h3>Languages and Tools</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="60" height="60"/>&nbsp;
+<i class="devicon-python-plain" style="font-size: 60px" &nbsp></i>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="Fast-API" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" width="60" height="60"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" title="DevOps" width="70" height="70"/>&nbsp;
