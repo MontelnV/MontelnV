@@ -1,4 +1,4 @@
-![nginx](https://github.com/MontelnV/MontelnV/assets/139653630/8015c3af-b062-4ad2-84fc-6708f9fcac5a)<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <style>
